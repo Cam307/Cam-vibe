@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# Claude
+.claude/
+
+# Smart Environment
+.smart-env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
