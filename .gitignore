@@ -12,3 +12,10 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 不需要推送的文件夹/文件
+对标小说/
+小说作品/
+AI小说创作系统-流程图.md
+小红书爆款笔记-用AI写小说挣了一万多.md
+README.md
